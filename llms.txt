@@ -2,13 +2,13 @@
 
 > Personal site of Jianshe Feng (冯建设), Associate Professor & Doctoral
 > Supervisor at the School of Advanced Manufacturing, Sun Yat-sen University
-> (Shenzhen, China), and Director of SAM Lab (AI³ / AI Cube). Bilingual:
+> (Shenzhen, China), and Director of AI Cube Lab (先进智造实验室 / SAM Lab / AI³). Bilingual:
 > English at /, Chinese at /zh/.
 
 ## Who
 
 - Associate Professor & doctoral supervisor, School of Advanced Manufacturing, Sun Yat-sen University (中山大学先进制造学院 副教授、博士生导师)
-- Director, SAM Lab (AI³) — Advanced Manufacturing Intelligence Lab (先进智造实验室负责人): https://ai.sysu-sam.com/
+- Director, AI Cube Lab — Advanced Manufacturing Intelligence Lab (AI Cube实验室 / 先进智造实验室负责人, also known as SAM Lab / AI³): https://ai.sysu-sam.com/
 - Previously: CTO of Xinrun Fulian Digital Technology (信润富联 CTO); Industrial AI product lead at Foxconn Industrial Internet (富士康工业互联网); research scientist collaborating with General Motors R&D
 - Ph.D. Mechanical Engineering, IMS Center, University of Cincinnati (advisor: Prof. Jay Lee); M.Sc. Zhejiang University; B.Sc. Tongji University
 - PHM 2025 Data Challenge world champion (team); 100+ invention patents (US/DE/CN); 30+ peer-reviewed papers, 1600+ citations
@@ -23,7 +23,7 @@
 ## Links
 
 - Personal site: https://fengjianshe.xyz/ (EN) · https://fengjianshe.xyz/zh/ (中文)
-- SAM Lab: https://ai.sysu-sam.com/ · Blog: https://blog.sysu-sam.com/
+- AI Cube Lab / SAM Lab: https://ai.sysu-sam.com/ · Blog: https://blog.sysu-sam.com/
 - Google Scholar: https://scholar.google.com/citations?user=izHfXdgAAAAJ
 - GitHub: https://github.com/fengjianshe
 - Contact: fengjsh7@mail.sysu.edu.cn
