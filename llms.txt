@@ -1,0 +1,34 @@
+# Jianshe Feng (冯建设)
+
+> Personal site of Jianshe Feng (冯建设), Associate Professor & Doctoral
+> Supervisor at the School of Advanced Manufacturing, Sun Yat-sen University
+> (Shenzhen, China), and Director of SAM Lab (AI³ / AI Cube). Bilingual:
+> English at /, Chinese at /zh/.
+
+## Who
+
+- Associate Professor & doctoral supervisor, School of Advanced Manufacturing, Sun Yat-sen University (中山大学先进制造学院 副教授、博士生导师)
+- Director, SAM Lab (AI³) — Advanced Manufacturing Intelligence Lab (先进智造实验室负责人): https://ai.sysu-sam.com/
+- Previously: CTO of Xinrun Fulian Digital Technology (信润富联 CTO); Industrial AI product lead at Foxconn Industrial Internet (富士康工业互联网); research scientist collaborating with General Motors R&D
+- Ph.D. Mechanical Engineering, IMS Center, University of Cincinnati (advisor: Prof. Jay Lee); M.Sc. Zhejiang University; B.Sc. Tongji University
+- PHM 2025 Data Challenge world champion (team); 100+ invention patents (US/DE/CN); 30+ peer-reviewed papers, 1600+ citations
+
+## Research
+
+- High-dimensional spatio-temporal modeling of industrial time series (高维时空序列建模)
+- Multimodal industrial foundation models (多模态工业大模型)
+- Intelligent process monitoring, diagnosis and optimization for semiconductors, EV and high-end equipment (制造过程智能监控诊断与优化)
+- Fields: Industrial AI, PHM (prognostics and health management), predictive maintenance, fault diagnosis, anomaly detection, virtual metrology, digital twin, smart manufacturing
+
+## Links
+
+- Personal site: https://fengjianshe.xyz/ (EN) · https://fengjianshe.xyz/zh/ (中文)
+- SAM Lab: https://ai.sysu-sam.com/ · Blog: https://blog.sysu-sam.com/
+- Google Scholar: https://scholar.google.com/citations?user=izHfXdgAAAAJ
+- GitHub: https://github.com/fengjianshe
+- Contact: fengjsh7@mail.sysu.edu.cn
+
+## Recruiting
+
+Ph.D. & M.Sc. positions in Industrial AI at SYSU (Shenzhen) are open year-round
+(常年招收工业AI方向硕士/博士研究生): https://ai.sysu-sam.com/join/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fengjianshe.xyz/sitemap.xml
